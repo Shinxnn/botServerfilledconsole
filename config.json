@@ -1,0 +1,9 @@
+{
+	"ip":"Fileled.aternos.me",
+	"port": "25597",
+	"name": "ServerFileConsole",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
