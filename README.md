@@ -1,2 +1,0 @@
-# botServerfilledconsole
-Kntl
